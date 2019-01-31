@@ -1,0 +1,15 @@
+body{
+    background-image: url(http://i1.wp.com/static.web-backgrounds.net/uploads/2012/08/City_Landscape_Background.jpg);
+    background-size: cover;
+}
+h1{
+    font-size: 50px;
+    font-family: monospace;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}

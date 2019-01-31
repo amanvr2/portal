@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://wallpaperscraft.com/image/dark_spots_texture_background_50355_602x339.jpg);
+    background-size: cover;
+    margin-bottom: 60px;
+}
+h1{
+    font-family: 'Vollkorn SC', serif;;
+    text-align: center;
+    font-size: 45px;
+    color: gainsboro;
+}
+h2{
+    margin-left: 30px;
+    color: gainsboro;
+    font-family: cursive;
+}
+p{
+    margin-left: 30px;
+    margin-right: 150px;
+    font-size: 18px;
+    color: beige;
+}
+li{
+    font-size: 15px;
+    color: blanchedalmond;
+    
+}

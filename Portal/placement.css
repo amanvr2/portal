@@ -1,0 +1,22 @@
+body{
+    background-image: url(http://smsvaranasi.com/blog/wp-content/uploads/2017/11/tips-to-Ace-the-bandwagon-and-make-a-giant-career-leap-and-impress-the-recruiters.jpg);
+    background-size: cover;
+    margin-bottom: 100px;
+}
+h1{
+    font-family: 'Vollkorn SC', serif;;
+    text-align: center;
+    font-size: 50px;
+    color:firebrick;
+}
+p{
+    margin-left: 30px;
+    margin-right: 100px;
+    font-family: cursive;
+    font-size: 20px;
+}
+h2{
+    font-size: 35px;
+    font-family: cursive;
+    margin-left: 30px;
+}

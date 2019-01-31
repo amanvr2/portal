@@ -1,0 +1,19 @@
+body{
+    background-image: url(http://static.hdw.eweb4.com/media/wallpapers_dl/1/88/870793-website-backgrounds.jpg);
+}
+h1{
+    font-family: fantasy;
+    text-align: center;
+    color: cornsilk;
+}
+h2{
+    font-family: serif;
+    color: burlywood;
+}
+
+
+p{
+    color: cornsilk;
+    font-size: 22px;
+    margin-left: 10px;
+}

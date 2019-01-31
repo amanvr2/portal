@@ -1,0 +1,38 @@
+h1{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Vollkorn SC', serif;
+}
+p{
+  text-align: center;
+  font-size: 15px;
+}
+body{
+  background-image: url(http://1.bp.blogspot.com/-S0haiBSIfZw/TlwxuyARFVI/AAAAAAAAAAs/Fhnvlnp0iiY/s1600/DSC_0208.jpg);
+  background-size:cover;
+    
+}
+table{
+    margin-left: 10px;
+    margin-right: 1000px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    font-size: 18px;
+    border-radius: 20px;
+   
+}
+th{
+    text-align: center;
+    font-size: 25px;
+       
+}
+.categories{
+    position: absolute;
+    top:285px;
+    left: 1070px;
+    text-align: center;
+    
+}
+

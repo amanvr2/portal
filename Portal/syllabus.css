@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://www.franchiseindia.com/uploads/content/edu/art/education-858cc07046.jpg);
+    background-size: cover;
+    
+}
+h1{
+     font-family: 'Vollkorn SC', serif;;
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    margin-left: 30px;
+}
+h2{
+    font-family: cursive;
+    margin-left: 30px;
+    font-size: 23px;
+    color: black;
+}
+h3{
+    font-family: monospace;
+    margin-left: 30px;
+    font-size: 20px;
+    
+}
+h3:hover{
+    background-color: white;
+    color: aqua;
+    background-size:50px;
+    margin-right: 78%;
+}
